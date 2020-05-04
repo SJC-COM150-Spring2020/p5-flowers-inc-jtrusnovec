@@ -1,0 +1,14 @@
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.exe.config
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.exe
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.pdb
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.xml
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.vbprojResolveAssemblyReference.cache
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.BuildForm3.resources
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.MenuForm1.resources
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Resources.resources
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.QuizForm2.resources
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.vbproj.GenerateResource.Cache
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.exe
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.xml
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.pdb
+F:\jtrusnovec\projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Form.resources
